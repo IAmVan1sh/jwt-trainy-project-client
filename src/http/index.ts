@@ -1,7 +1,7 @@
 import axios from 'axios';
 import {AuthResponse} from "../types/AuthResponse";
 
-export const API_URL = 'https://friendly-wrap-boa.cyclic.app/api';
+export const API_URL = 'https://cute-pink-bull-cuff.cyclic.app/api';
 
 const $api = axios.create({
 	withCredentials: true,
